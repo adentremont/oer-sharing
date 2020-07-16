@@ -1,0 +1,144 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Preface}{2}% 
+\contentsline {chapter}{\numberline {1}L1: Rigid Body Kinematics - Chasles' Theorem}{6}% 
+\contentsline {section}{\numberline {1.1}Objective}{6}% 
+\contentsline {section}{\numberline {1.2}Introduction: Chasles\IeC {\textquoteright } Theorem}{6}% 
+\contentsline {section}{\numberline {1.3}Types of Rigid Body Motion}{7}% 
+\contentsline {section}{\numberline {1.4}Pure Translation}{7}% 
+\contentsline {section}{\numberline {1.5}Pure Rotation}{8}% 
+\contentsline {subsection}{\numberline {1.5.1}Example}{8}% 
+\contentsline {section}{\numberline {1.6}Fixed Rotation: Angular Relations}{11}% 
+\contentsline {subsection}{\numberline {1.6.1}Example}{11}% 
+\contentsline {chapter}{\numberline {2}L2: Relative Plane Motion Analysis - Velocity}{13}% 
+\contentsline {section}{\numberline {2.1}Objective}{13}% 
+\contentsline {section}{\numberline {2.2}Fixed and Translating Reference Frames}{13}% 
+\contentsline {subsection}{\numberline {2.2.1}Example}{15}% 
+\contentsline {chapter}{\numberline {3}L3: Instantaneous Centres of Zero Velocity}{17}% 
+\contentsline {section}{\numberline {3.1}Objective}{17}% 
+\contentsline {section}{\numberline {3.2}Locating the Instantaneous Centre}{17}% 
+\contentsline {section}{\numberline {3.3}Comments about the ICZV}{19}% 
+\contentsline {subsection}{\numberline {3.3.1}Example 1}{23}% 
+\contentsline {subsection}{\numberline {3.3.2}Example 2}{24}% 
+\contentsline {chapter}{\numberline {4}L4: Relative Plane Motion, Acceleration - Fixed Frame}{26}% 
+\contentsline {section}{\numberline {4.1}Objective}{26}% 
+\contentsline {section}{\numberline {4.2}Reference Frame - Translating, but NOT Rotating}{26}% 
+\contentsline {subsection}{\numberline {4.2.1}Example 1}{28}% 
+\contentsline {subsection}{\numberline {4.2.2}Example 2}{30}% 
+\contentsline {chapter}{\numberline {5}L5/L6: Relative Plane Motion - Rotating Frame}{32}% 
+\contentsline {section}{\numberline {5.1}Objective}{32}% 
+\contentsline {section}{\numberline {5.2}Reference Frames}{32}% 
+\contentsline {section}{\numberline {5.3}Summary}{37}% 
+\contentsline {subsection}{\numberline {5.3.1}Example}{38}% 
+\contentsline {chapter}{\numberline {6}L7: Absolute General Plane Motion}{41}% 
+\contentsline {section}{\numberline {6.1}Objective}{41}% 
+\contentsline {section}{\numberline {6.2}Method}{41}% 
+\contentsline {subsection}{\numberline {6.2.1}Example}{41}% 
+\contentsline {section}{\numberline {6.3}Summary}{43}% 
+\contentsline {subsection}{\numberline {6.3.1}Example}{43}% 
+\contentsline {chapter}{\numberline {7}L8/L9: Centroids, Centres of Mass, Moments of Inertia, and Mass Moments of Inertia}{48}% 
+\contentsline {section}{\numberline {7.1}Objective}{48}% 
+\contentsline {section}{\numberline {7.2}Centroids}{48}% 
+\contentsline {subsection}{\numberline {7.2.1}Example}{50}% 
+\contentsline {section}{\numberline {7.3}Applications of Centroids}{52}% 
+\contentsline {subsection}{\numberline {7.3.1}Example}{53}% 
+\contentsline {section}{\numberline {7.4}Centre of Mass}{54}% 
+\contentsline {subsection}{\numberline {7.4.1}Example}{55}% 
+\contentsline {section}{\numberline {7.5}Moments of Inertia \IeC {\textendash } Second Moment of Area}{56}% 
+\contentsline {subsection}{\numberline {7.5.1}Example}{58}% 
+\contentsline {section}{\numberline {7.6}Mass Moment of Inertia}{59}% 
+\contentsline {subsection}{\numberline {7.6.1}Example}{60}% 
+\contentsline {section}{\numberline {7.7}Parallel Axis Theorem}{61}% 
+\contentsline {subsection}{\numberline {7.7.1}Example}{62}% 
+\contentsline {section}{\numberline {7.8}Radius of Gyration}{63}% 
+\contentsline {section}{\numberline {7.9}Summary}{64}% 
+\contentsline {chapter}{\numberline {8}L10/L11: Introduction to Rigid Body Kinetics}{66}% 
+\contentsline {section}{\numberline {8.1}Objective}{66}% 
+\contentsline {section}{\numberline {8.2}Review \IeC {\textendash } Newton\IeC {\textquoteright }s Second Law}{66}% 
+\contentsline {section}{\numberline {8.3}Equations of Motion for a Planar Rigid Body}{67}% 
+\contentsline {section}{\numberline {8.4}Further Results}{70}% 
+\contentsline {section}{\numberline {8.5}Method}{71}% 
+\contentsline {subsection}{\numberline {8.5.1}Example 1}{71}% 
+\contentsline {subsection}{\numberline {8.5.2}Example 2}{73}% 
+\contentsline {subsection}{\numberline {8.5.3}Example 3}{74}% 
+\contentsline {section}{\numberline {8.6}Rotation About a Fixed Axis}{76}% 
+\contentsline {subsection}{\numberline {8.6.1}Example}{77}% 
+\contentsline {chapter}{\numberline {9}L12/L13/L14: General Plane Motion and Kinematic Constraints}{78}% 
+\contentsline {section}{\numberline {9.1}Objective}{78}% 
+\contentsline {section}{\numberline {9.2}Review of General Methodology}{78}% 
+\contentsline {subsection}{\numberline {9.2.1}Example}{79}% 
+\contentsline {section}{\numberline {9.3}Type of Kinematic Constraints}{81}% 
+\contentsline {section}{\numberline {9.4}Method}{82}% 
+\contentsline {subsection}{\numberline {9.4.1}Example}{83}% 
+\contentsline {section}{\numberline {9.5}Review Question}{86}% 
+\contentsline {chapter}{\numberline {10}L15/L16/L17: Work and Energy}{89}% 
+\contentsline {section}{\numberline {10.1}Objective}{89}% 
+\contentsline {section}{\numberline {10.2}Key Concepts}{89}% 
+\contentsline {section}{\numberline {10.3}Work}{90}% 
+\contentsline {subsection}{\numberline {10.3.1}Examples - Work Done by Various Forces}{91}% 
+\contentsline {section}{\numberline {10.4}Power}{92}% 
+\contentsline {subsection}{\numberline {10.4.1}Example - Power}{93}% 
+\contentsline {section}{\numberline {10.5}Forces That Don't Do Work}{95}% 
+\contentsline {section}{\numberline {10.6}Mechanical Energy}{95}% 
+\contentsline {section}{\numberline {10.7}Kinetic Energy}{95}% 
+\contentsline {subsection}{\numberline {10.7.1}Example 1 - Kinetic Energy}{96}% 
+\contentsline {subsection}{\numberline {10.7.2}Example 2 - Kinetic Energy}{97}% 
+\contentsline {section}{\numberline {10.8}Potential Energy}{98}% 
+\contentsline {subsection}{\numberline {10.8.1}Example - Potential Energy}{100}% 
+\contentsline {section}{\numberline {10.9}Conservative Forces}{101}% 
+\contentsline {section}{\numberline {10.10}Principle of Work and Energy}{101}% 
+\contentsline {section}{\numberline {10.11}Method}{102}% 
+\contentsline {subsection}{\numberline {10.11.1}Example 1 \IeC {\textendash } Principle of Work and Energy}{103}% 
+\contentsline {subsection}{\numberline {10.11.2}Example 2 \IeC {\textendash } Principle of Work and Energy}{104}% 
+\contentsline {section}{\numberline {10.12}Summary}{106}% 
+\contentsline {chapter}{\numberline {11}L18: Free Undamped Vibrations}{107}% 
+\contentsline {section}{\numberline {11.1}Objective}{107}% 
+\contentsline {section}{\numberline {11.2}Free Vibration}{107}% 
+\contentsline {section}{\numberline {11.3}Initial Conditions}{109}% 
+\contentsline {subsection}{\numberline {11.3.1}Example 1 - Torsional Shaft Vibration}{112}% 
+\contentsline {subsection}{\numberline {11.3.2}Example 2 - Swinging Pendulum (small $\theta $)}{113}% 
+\contentsline {section}{\numberline {11.4}Simple Harmonic Motion Solution using Euler's Formula}{114}% 
+\contentsline {section}{\numberline {11.5}Summary}{115}% 
+\contentsline {subsection}{\numberline {11.5.1}Example}{116}% 
+\contentsline {chapter}{\numberline {12}L19: \sout {Modelling Using Energy Methods} (NOT 2020W)}{117}% 
+\contentsline {section}{\numberline {12.1}Objective}{117}% 
+\contentsline {section}{\numberline {12.2}Conservation of Energy}{117}% 
+\contentsline {section}{\numberline {12.3}Observations}{118}% 
+\contentsline {subsection}{\numberline {12.3.1}Example 1}{119}% 
+\contentsline {subsection}{\numberline {12.3.2}Example 2}{120}% 
+\contentsline {chapter}{\numberline {13}L20: Harmonic Forced Undamped Vibration}{121}% 
+\contentsline {section}{\numberline {13.1}Objectives}{121}% 
+\contentsline {section}{\numberline {13.2}Mass Spring Model}{121}% 
+\contentsline {section}{\numberline {13.3}Amplitude of Forced Vibration}{124}% 
+\contentsline {section}{\numberline {13.4}Beats}{125}% 
+\contentsline {subsection}{\numberline {13.4.1}Example 1}{126}% 
+\contentsline {subsection}{\numberline {13.4.2}Example 2}{126}% 
+\contentsline {subsection}{\numberline {13.4.3}Example 3}{127}% 
+\contentsline {chapter}{\numberline {14}L21/L22: Damped Free Vibrations}{128}% 
+\contentsline {section}{\numberline {14.1}Objectives}{128}% 
+\contentsline {section}{\numberline {14.2}Damped Free Vibration}{128}% 
+\contentsline {subsection}{\numberline {14.2.1}Example}{129}% 
+\contentsline {section}{\numberline {14.3}Solution of the Linear (Viscous) Damping Equation}{130}% 
+\contentsline {subsection}{\numberline {14.3.1}Exercise}{133}% 
+\contentsline {section}{\numberline {14.4}Measuring Damping}{134}% 
+\contentsline {section}{\numberline {14.5}Frictional Damping}{135}% 
+\contentsline {subsection}{\numberline {14.5.1}Example 1}{138}% 
+\contentsline {subsection}{\numberline {14.5.2}Example 2}{139}% 
+\contentsline {section}{\numberline {14.6}Vibrations Summary}{140}% 
+\contentsline {chapter}{\numberline {15}L23: Principle of Momentum and Impulse}{141}% 
+\contentsline {section}{\numberline {15.1}Objectives}{141}% 
+\contentsline {section}{\numberline {15.2}Context}{141}% 
+\contentsline {section}{\numberline {15.3}Impulse and Momentum Definitions}{142}% 
+\contentsline {section}{\numberline {15.4}Principle of Impulse and Momentum for a System}{144}% 
+\contentsline {chapter}{\numberline {16}L24/L25/L26: Momentum and Impact}{145}% 
+\contentsline {section}{\numberline {16.1}Objectives}{145}% 
+\contentsline {section}{\numberline {16.2}Summary for Impulse and Momentum}{145}% 
+\contentsline {subsection}{\numberline {16.2.1}Example}{146}% 
+\contentsline {section}{\numberline {16.3}Conservation of Momentum}{150}% 
+\contentsline {subsection}{\numberline {16.3.1}Example}{151}% 
+\contentsline {section}{\numberline {16.4}Impact}{153}% 
+\contentsline {subsection}{\numberline {16.4.1}Example - Perfectly Plastic Collision}{155}% 
+\contentsline {section}{\numberline {16.5}General Solution for Oblique Collisions for Particles}{156}% 
+\contentsline {subsection}{\numberline {16.5.1}Example}{159}% 
+\contentsline {section}{\numberline {16.6}Eccentric Impact - Rigid Bodies}{162}% 
+\contentsline {subsection}{\numberline {16.6.1}Example 1}{164}% 
+\contentsline {subsection}{\numberline {16.6.2}Example 2}{166}% 

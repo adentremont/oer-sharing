@@ -1,0 +1,1599 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 JUL 2020 18:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MECH221_Dynamics_2020jul15.tex
+(./MECH221_Dynamics_2020jul15.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks17
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks22
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen120
+\ar@mcellbox=\box29
+\extrarowheight=\dimen121
+\NC@list=\toks23
+\extratabsurround=\skip46
+\backup@length=\skip47
+\ar@cellbox=\box30
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box31
+\sift@deathcycles=\count104
+\@vwid@loff=\dimen122
+\@vwid@roff=\dimen123
+)
+\c@taburow=\count105
+\tabu@nbcols=\count106
+\tabu@cnt=\count107
+\tabu@Xcol=\count108
+\tabu@alloc=\count109
+\tabu@nested=\count110
+\tabu@target=\dimen124
+\tabu@spreadtarget=\dimen125
+\tabu@naturalX=\dimen126
+\tabucolX=\dimen127
+\tabu@Xsum=\dimen128
+\extrarowdepth=\dimen129
+\abovetabulinesep=\dimen130
+\belowtabulinesep=\dimen131
+\tabustrutrule=\dimen132
+\tabu@thebody=\toks24
+\tabu@footnotes=\toks25
+\tabu@box=\box32
+\tabu@arstrutbox=\box33
+\tabu@hleads=\box34
+\tabu@vleads=\box35
+\tabu@cellskip=\skip48
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip58
+\cftbeforetoctitleskip=\skip59
+\cftaftertoctitleskip=\skip60
+\cftbeforepartskip=\skip61
+\cftpartnumwidth=\skip62
+\cftpartindent=\skip63
+\cftbeforechapskip=\skip64
+\cftchapindent=\skip65
+\cftchapnumwidth=\skip66
+\cftbeforesecskip=\skip67
+\cftsecindent=\skip68
+\cftsecnumwidth=\skip69
+\cftbeforesubsecskip=\skip70
+\cftsubsecindent=\skip71
+\cftsubsecnumwidth=\skip72
+\cftbeforesubsubsecskip=\skip73
+\cftsubsubsecindent=\skip74
+\cftsubsubsecnumwidth=\skip75
+\cftbeforeparaskip=\skip76
+\cftparaindent=\skip77
+\cftparanumwidth=\skip78
+\cftbeforesubparaskip=\skip79
+\cftsubparaindent=\skip80
+\cftsubparanumwidth=\skip81
+\cftbeforeloftitleskip=\skip82
+\cftafterloftitleskip=\skip83
+\cftbeforefigskip=\skip84
+\cftfigindent=\skip85
+\cftfignumwidth=\skip86
+\c@lofdepth=\count111
+\c@lotdepth=\count112
+\cftbeforelottitleskip=\skip87
+\cftafterlottitleskip=\skip88
+\cftbeforetabskip=\skip89
+\cfttabindent=\skip90
+\cfttabnumwidth=\skip91
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip92
+\multirow@cntb=\count113
+\multirow@dima=\skip93
+\bigstrutjot=\dimen133
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen134
+\captionmargin@=\dimen135
+\captionwidth=\dimen136
+\caption@tempdima=\dimen137
+\caption@indent=\dimen138
+\caption@parindent=\dimen139
+\caption@hangindent=\dimen140
+)
+\c@caption@flags=\count114
+\c@ContinuedFloat=\count115
+)
+\c@subfigure=\count116
+\c@subtable=\count117
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count118
+\float@exts=\toks26
+\float@box=\box36
+\@float@everytoks=\toks27
+\@floatcapt=\box37
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count119
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box38
+)
+\tc@llx=\dimen143
+\tc@lly=\dimen144
+\tc@urx=\dimen145
+\tc@ury=\dimen146
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen147
+\adjbox@Height=\dimen148
+\adjbox@Depth=\dimen149
+\adjbox@Totalheight=\dimen150
+\adjbox@pwidth=\dimen151
+\adjbox@pheight=\dimen152
+\adjbox@pdepth=\dimen153
+\adjbox@ptotalheight=\dimen154
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count120
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen155
+\WF@size=\dimen156
+\c@WF@wrappedlines=\count121
+\WF@box=\box39
+\WF@everypar=\toks30
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box40
+\UL@hyphenbox=\box41
+\UL@skip=\skip94
+\UL@hook=\toks31
+\UL@height=\dimen157
+\UL@pe=\count122
+\UL@pixel=\dimen158
+\ULC@box=\box42
+Package: ulem 2012/05/18
+\ULdepth=\dimen159
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/05/04 3.31 The Babel package
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count123
+\U@D=\dimen160
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count124
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count125
+)
+\csq@reset=\count126
+\csq@gtype=\count127
+\csq@glevel=\count128
+\csq@qlevel=\count129
+\csq@maxlvl=\count130
+\csq@tshold=\count131
+\csq@ltx@everypar=\toks32
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+Package csquotes Info: Redefining alias 'english' -> 'english/american'.
+)
+Package csquotes Info: Allocating character ".
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box43
+\beforetitleunit=\skip95
+\aftertitleunit=\skip96
+\ttl@plus=\dimen161
+\ttl@minus=\dimen162
+\ttl@toksa=\toks33
+\titlewidth=\dimen163
+\titlewidthlast=\dimen164
+\titlewidthfirst=\dimen165
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+
+(./MECH221_Dynamics_2020jul15.aux
+
+LaTeX Warning: Label `tab:singlebest' multiply defined.
+
+
+LaTeX Warning: Label `tab:singlebest' multiply defined.
+
+
+LaTeX Warning: Label `tab:singlebest' multiply defined.
+
+
+LaTeX Warning: Label `tab:singlebest' multiply defined.
+
+)
+\openout1 = `MECH221_Dynamics_2020jul15.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89pt
+* \textheight=686.56499pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-55.06749pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen166
+\scratchbox=\box44
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen167
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks35
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package csquotes Info: Making character " active on input line 72.
+LaTeX Font Info:    Try loading font information for U+msa on input line 76.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 76.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2
+
+] (./MECH221_Dynamics_2020jul15.toc [3] [4])
+\tf@toc=\write3
+\openout3 = `MECH221_Dynamics_2020jul15.toc'.
+
+ [5]
+Chapter 1.
+<./MECH221_DYN_notes_images/Slide2.png, id=23, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide2.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide2.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide2.png  used on input l
+ine 118.
+(pdftex.def)             Requested size: 379.4175pt x 134.95036pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 131.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/sl' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
+<./MECH221_DYN_notes_images/Slide3.png, id=32, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide3.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide3.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide3.png  used on input l
+ine 142.
+(pdftex.def)             Requested size: 202.3529pt x 130.37625pt.
+<./MECH221_DYN_notes_images/Slide4.png, id=34, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide4.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide4.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide4.png  used on input l
+ine 148.
+(pdftex.def)             Requested size: 202.3529pt x 134.70607pt.
+
+Overfull \hbox (24.48341pt too wide) in paragraph at lines 157--165
+[][]
+ []
+
+<./MECH221_DYN_notes_images/Slide5.png, id=36, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide5.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide5.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide5.png  used on input l
+ine 167.
+(pdftex.def)             Requested size: 318.70714pt x 239.44788pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./MECH221_DYN_notes_images/Slide2.png> <./MECH221_DYN_notes_images/Slide3.
+png> <./MECH221_DYN_notes_images/Slide4.png>]
+<./MECH221_DYN_notes_images/Slide6.png, id=46, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide6.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide6.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide6.png  used on input l
+ine 179.
+(pdftex.def)             Requested size: 404.71353pt x 116.99457pt.
+ [8 <./MECH221_DYN_notes_images/Slide5.png> <./MECH221_DYN_notes_images/Slide6.
+png>] [9] [10]
+Overfull \hbox (15.52766pt too wide) in paragraph at lines 233--250
+[][]
+ []
+
+<./MECH221_DYN_notes_images/Slide8.png, id=62, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide8.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide8.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide8.png  used on input l
+ine 252.
+(pdftex.def)             Requested size: 159.35356pt x 255.89449pt.
+
+Overfull \hbox (25.29602pt too wide) in paragraph at lines 232--254
+[]$[]$$[]$ 
+ []
+
+<./MECH221_DYN_notes_images/Slide10.png, id=64, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide10.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide10.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide10.png  used on input 
+line 262.
+(pdftex.def)             Requested size: 273.1815pt x 189.04428pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 258--264
+$[]$ $[]$ 
+ []
+
+[11 <./MECH221_DYN_notes_images/Slide8.png> <./MECH221_DYN_notes_images/Slide10
+.png>] [12]
+Chapter 2.
+File: ./MECH221_DYN_notes_images/Slide5.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide5.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide5.png  used on input l
+ine 280.
+(pdftex.def)             Requested size: 278.24104pt x 209.04434pt.
+[13
+
+]
+<./MECH221_DYN_notes_images/Slide12.png, id=80, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide12.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide12.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide12.png  used on input 
+line 295.
+(pdftex.def)             Requested size: 278.24104pt x 231.88158pt.
+<./MECH221_DYN_notes_images/Slide13.png, id=82, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide13.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide13.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide13.png  used on input 
+line 299.
+(pdftex.def)             Requested size: 455.2979pt x 236.01044pt.
+<./MECH221_DYN_notes_images/Slide14.png, id=84, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide14.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide14.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide14.png  used on input 
+line 305.
+(pdftex.def)             Requested size: 455.2979pt x 188.95796pt.
+ [14 <./MECH221_DYN_notes_images/Slide12.png> <./MECH221_DYN_notes_images/Slide
+13.png>]
+<./MECH221_DYN_notes_images/Slide15.png, id=91, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide15.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide15.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide15.png  used on input 
+line 311.
+(pdftex.def)             Requested size: 303.53708pt x 252.95755pt.
+ [15 <./MECH221_DYN_notes_images/Slide14.png> <./MECH221_DYN_notes_images/Slide
+15.png>] [16]
+Chapter 3.
+<./MECH221_DYN_notes_images/Slide17.png, id=101, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide17.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide17.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide17.png  used on input 
+line 328.
+(pdftex.def)             Requested size: 455.2979pt x 175.51439pt.
+[17
+
+ <./MECH221_DYN_notes_images/Slide17.png>]
+<./MECH221_DYN_notes_images/Slide18.png, id=108, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide18.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide18.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide18.png  used on input 
+line 352.
+(pdftex.def)             Requested size: 455.2979pt x 256.17577pt.
+ [18 <./MECH221_DYN_notes_images/Slide18.png>]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 363.
+<./MECH221_DYN_notes_images/Slide19.png, id=115, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide19.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide19.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide19.png  used on input 
+line 367.
+(pdftex.def)             Requested size: 455.2979pt x 175.51439pt.
+<./MECH221_DYN_notes_images/Slide20.png, id=117, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide20.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide20.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide20.png  used on input 
+line 373.
+(pdftex.def)             Requested size: 354.12144pt x 199.24873pt.
+ [19 <./MECH221_DYN_notes_images/Slide19.png> <./MECH221_DYN_notes_images/Slide
+20.png>]
+<./MECH221_DYN_notes_images/Slide21.png, id=125, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide21.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide21.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide21.png  used on input 
+line 378.
+(pdftex.def)             Requested size: 252.94499pt x 217.15224pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+
+ []
+
+<./MECH221_DYN_notes_images/Slide22.png, id=127, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide22.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide22.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide22.png  used on input 
+line 395.
+(pdftex.def)             Requested size: 182.11984pt x 172.81096pt.
+
+Overfull \hbox (79.96677pt too wide) in paragraph at lines 383--397
+[]$[]$$[]$ 
+ []
+
+[20 <./MECH221_DYN_notes_images/Slide21.png> <./MECH221_DYN_notes_images/Slide2
+2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+<./MECH221_DYN_notes_images/Slide23.png, id=134, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide23.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide23.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide23.png  used on input 
+line 402.
+(pdftex.def)             Requested size: 252.94499pt x 220.42781pt.
+[21 <./MECH221_DYN_notes_images/Slide23.png>] [22]
+<./MECH221_DYN_notes_images/Slide24.png, id=143, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide24.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide24.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide24.png  used on input 
+line 416.
+(pdftex.def)             Requested size: 227.64894pt x 198.38007pt.
+ [23 <./MECH221_DYN_notes_images/Slide24.png>]
+<./MECH221_DYN_notes_images/Slide25.png, id=149, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide25.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide25.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide25.png  used on input 
+line 422.
+(pdftex.def)             Requested size: 278.24104pt x 242.47556pt.
+ [24 <./MECH221_DYN_notes_images/Slide25.png>] [25]
+Chapter 4.
+File: ./MECH221_DYN_notes_images/Slide5.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide5.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide5.png  used on input l
+ine 449.
+(pdftex.def)             Requested size: 404.71353pt x 233.18102pt.
+
+Overfull \hbox (50.59207pt too wide) in paragraph at lines 436--451
+[]$[]$$[]$ 
+ []
+
+[26
+
+]
+<./MECH221_DYN_notes_images/Slide27.png, id=164, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide27.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide27.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide27.png  used on input 
+line 466.
+(pdftex.def)             Requested size: 505.89pt x 239.83098pt.
+ [27 <./MECH221_DYN_notes_images/Slide27.png>]
+<./MECH221_DYN_notes_images/Slide28.png, id=170, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide28.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide28.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide28.png  used on input 
+line 481.
+(pdftex.def)             Requested size: 202.3529pt x 204.37805pt.
+ [28 <./MECH221_DYN_notes_images/Slide28.png>] [29]
+<./MECH221_DYN_notes_images/Slide29.png, id=179, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide29.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide29.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide29.png  used on input 
+line 492.
+(pdftex.def)             Requested size: 303.53708pt x 167.3467pt.
+ [30 <./MECH221_DYN_notes_images/Slide29.png>] [31]
+Chapter 5.
+File: ./MECH221_DYN_notes_images/Slide5.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide5.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide5.png  used on input l
+ine 526.
+(pdftex.def)             Requested size: 328.82541pt x 197.75035pt.
+
+Overfull \hbox (25.28831pt too wide) in paragraph at lines 510--528
+[]$[]$$[]$ 
+ []
+
+[32
+
+] [33]
+<./MECH221_DYN_notes_images/Slide31.png, id=197, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide31.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide31.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide31.png  used on input 
+line 564.
+(pdftex.def)             Requested size: 303.53708pt x 159.36583pt.
+ [34] [35 <./MECH221_DYN_notes_images/Slide31.png>] [36] [37]
+<./MECH221_DYN_notes_images/Slide32.png, id=216, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide32.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide32.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide32.png  used on input 
+line 657.
+(pdftex.def)             Requested size: 455.2979pt x 379.42804pt.
+ [38]
+[39 <./MECH221_DYN_notes_images/Slide32.png>] [40]
+Chapter 6.
+File: ./MECH221_DYN_notes_images/Slide29.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide29.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide29.png  used on input 
+line 688.
+(pdftex.def)             Requested size: 303.53708pt x 167.3467pt.
+[41
+
+] [42]
+<./MECH221_DYN_notes_images/Slide34.png, id=236, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide34.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide34.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide34.png  used on input 
+line 710.
+(pdftex.def)             Requested size: 177.06458pt x 212.65112pt.
+ [43 <./MECH221_DYN_notes_images/Slide34.png>] [44] [45] [46] [47]
+Chapter 7.
+[48
+
+] [49]
+<./MECH221_DYN_notes_images/Slide36.png, id=264, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide36.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide36.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide36.png  used on input 
+line 777.
+(pdftex.def)             Requested size: 379.4175pt x 226.88081pt.
+ [50 <./MECH221_DYN_notes_images/Slide36.png>] [51]
+<./MECH221_DYN_notes_images/Slide37.png, id=273, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide37.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide37.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide37.png  used on input 
+line 787.
+(pdftex.def)             Requested size: 455.2979pt x 202.40152pt.
+<./MECH221_DYN_notes_images/Slide38.png, id=275, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide38.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide38.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide38.png  used on input 
+line 791.
+(pdftex.def)             Requested size: 354.12144pt x 195.671pt.
+ [52 <./MECH221_DYN_notes_images/Slide37.png> <./MECH221_DYN_notes_images/Slide
+38.png>]
+<./MECH221_DYN_notes_images/Slide39.png, id=282, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide39.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide39.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide39.png  used on input 
+line 800.
+(pdftex.def)             Requested size: 303.53708pt x 191.4791pt.
+ [53 <./MECH221_DYN_notes_images/Slide39.png>] [54]
+<./MECH221_DYN_notes_images/Slide40.png, id=291, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide40.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide40.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide40.png  used on input 
+line 839.
+(pdftex.def)             Requested size: 202.3529pt x 136.30115pt.
+ [55 <./MECH221_DYN_notes_images/Slide40.png>]
+<./MECH221_DYN_notes_images/Slide41.png, id=298, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide41.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide41.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide41.png  used on input 
+line 852.
+(pdftex.def)             Requested size: 303.53708pt x 170.47998pt.
+<./MECH221_DYN_notes_images/Slide42.png, id=300, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide42.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide42.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide42.png  used on input 
+line 872.
+(pdftex.def)             Requested size: 303.53708pt x 179.34349pt.
+ [56 <./MECH221_DYN_notes_images/Slide41.png>] [57 <./MECH221_DYN_notes_images/
+Slide42.png>]
+File: ./MECH221_DYN_notes_images/Slide40.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide40.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide40.png  used on input 
+line 898.
+(pdftex.def)             Requested size: 202.3529pt x 136.30115pt.
+<./MECH221_DYN_notes_images/Slide43.png, id=311, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide43.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide43.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide43.png  used on input 
+line 904.
+(pdftex.def)             Requested size: 202.3529pt x 136.30115pt.
+ [58 <./MECH221_DYN_notes_images/Slide43.png>]
+<./MECH221_DYN_notes_images/Slide44.png, id=318, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide44.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide44.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide44.png  used on input 
+line 916.
+(pdftex.def)             Requested size: 202.3529pt x 160.54428pt.
+<./MECH221_DYN_notes_images/Slide45.png, id=320, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide45.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide45.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide45.png  used on input 
+line 924.
+(pdftex.def)             Requested size: 202.3529pt x 160.54428pt.
+ [59 <./MECH221_DYN_notes_images/Slide44.png> <./MECH221_DYN_notes_images/Slide
+45.png>]
+<./MECH221_DYN_notes_images/Slide46.png, id=327, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide46.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide46.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide46.png  used on input 
+line 933.
+(pdftex.def)             Requested size: 202.3529pt x 160.54428pt.
+
+[60 <./MECH221_DYN_notes_images/Slide46.png>]
+<./MECH221_DYN_notes_images/Slide47.png, id=333, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide47.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide47.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide47.png  used on input 
+line 944.
+(pdftex.def)             Requested size: 354.12144pt x 212.95932pt.
+File: ./MECH221_DYN_notes_images/Slide42.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide42.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide42.png  used on input 
+line 958.
+(pdftex.def)             Requested size: 303.53708pt x 179.34349pt.
+ [61 <./MECH221_DYN_notes_images/Slide47.png>]
+<./MECH221_DYN_notes_images/Slide48.png, id=342, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide48.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide48.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide48.png  used on input 
+line 965.
+(pdftex.def)             Requested size: 252.94499pt x 188.66609pt.
+ [62 <./MECH221_DYN_notes_images/Slide48.png>] [63]
+File: ./MECH221_DYN_notes_images/Slide42.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide42.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide42.png  used on input 
+line 1006.
+(pdftex.def)             Requested size: 166.2212pt x 107.31958pt.
+
+Overfull \hbox (10.12453pt too wide) in paragraph at lines 1006--1006
+[][]|  
+ []
+
+File: ./MECH221_DYN_notes_images/Slide44.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide44.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide44.png  used on input 
+line 1006.
+(pdftex.def)             Requested size: 166.2212pt x 131.87976pt.
+
+Overfull \hbox (10.12453pt too wide) in paragraph at lines 1006--1006
+[][]|  
+ []
+
+File: ./MECH221_DYN_notes_images/Slide42.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide42.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide42.png  used on input 
+line 1017.
+(pdftex.def)             Requested size: 166.2212pt x 107.31958pt.
+
+Overfull \hbox (10.12453pt too wide) in paragraph at lines 1017--1017
+[][]|  
+ []
+
+[64] [65]
+Chapter 8.
+[66
+
+]
+<./MECH221_DYN_notes_images/Slide50.png, id=372, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide50.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide50.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide50.png  used on input 
+line 1058.
+(pdftex.def)             Requested size: 303.53708pt x 216.91528pt.
+ [67 <./MECH221_DYN_notes_images/Slide50.png>]
+File: ./MECH221_DYN_notes_images/Slide50.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide50.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide50.png  used on input 
+line 1091.
+(pdftex.def)             Requested size: 303.53708pt x 166.04291pt.
+ [68] [69] [70]
+<./MECH221_DYN_notes_images/Slide51.png, id=391, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide51.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide51.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide51.png  used on input 
+line 1191.
+(pdftex.def)             Requested size: 252.94499pt x 151.15778pt.
+ [71 <./MECH221_DYN_notes_images/Slide51.png>] [72]
+<./MECH221_DYN_notes_images/Slide52.png, id=400, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide52.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide52.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide52.png  used on input 
+line 1201.
+(pdftex.def)             Requested size: 202.3529pt x 155.69565pt.
+ [73 <./MECH221_DYN_notes_images/Slide52.png>]
+<./MECH221_DYN_notes_images/Slide53.png, id=407, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide53.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide53.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide53.png  used on input 
+line 1208.
+(pdftex.def)             Requested size: 303.53708pt x 133.87852pt.
+ [74 <./MECH221_DYN_notes_images/Slide53.png>] [75]
+<./MECH221_DYN_notes_images/Slide54.png, id=417, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide54.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide54.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide54.png  used on input 
+line 1223.
+(pdftex.def)             Requested size: 252.94499pt x 182.50453pt.
+ [76 <./MECH221_DYN_notes_images/Slide54.png>]
+<./MECH221_DYN_notes_images/Slide55.png, id=423, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide55.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide55.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide55.png  used on input 
+line 1244.
+(pdftex.def)             Requested size: 303.53708pt x 179.34349pt.
+ [77 <./MECH221_DYN_notes_images/Slide55.png>]
+Chapter 9.
+
+Overfull \hbox (6.30968pt too wide) in paragraph at lines 1248--1248
+|[]\OT1/cmr/bx/n/17.28 L12/L13/L14: Gen-eral Plane Mo-tion and Kine-matic Con-
+ []
+
+[78
+
+]
+<./MECH221_DYN_notes_images/Slide57.png, id=432, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide57.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide57.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide57.png  used on input 
+line 1279.
+(pdftex.def)             Requested size: 126.47249pt x 243.28366pt.
+ [79 <./MECH221_DYN_notes_images/Slide57.png>] [80]
+<./MECH221_DYN_notes_images/Slide58.png, id=442, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide58.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide58.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide58.png  used on input 
+line 1292.
+(pdftex.def)             Requested size: 404.71353pt x 136.41266pt.
+ [81 <./MECH221_DYN_notes_images/Slide58.png>] [82]
+<./MECH221_DYN_notes_images/Slide59.png, id=451, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide59.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide59.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide59.png  used on input 
+line 1340.
+(pdftex.def)             Requested size: 151.76854pt x 218.13707pt.
+ [83 <./MECH221_DYN_notes_images/Slide59.png>]
+[84] [85]
+<./MECH221_DYN_notes_images/Slide60.png, id=464, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide60.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide60.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide60.png  used on input 
+line 1355.
+(pdftex.def)             Requested size: 151.76854pt x 175.7292pt.
+ [86 <./MECH221_DYN_notes_images/Slide60.png>]
+<./MECH221_DYN_notes_images/Slide61.png, id=470, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide61.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide61.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide61.png  used on input 
+line 1364.
+(pdftex.def)             Requested size: 252.94499pt x 148.22408pt.
+ [87 <./MECH221_DYN_notes_images/Slide61.png>] [88]
+Chapter 10.
+<./MECH221_DYN_notes_images/Slide63.png, id=479, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide63.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide63.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide63.png  used on input 
+line 1385.
+(pdftex.def)             Requested size: 404.71353pt x 191.86618pt.
+[89
+
+ <./MECH221_DYN_notes_images/Slide63.png>]
+<./MECH221_DYN_notes_images/Slide64.png, id=485, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide64.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide64.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide64.png  used on input 
+line 1419.
+(pdftex.def)             Requested size: 202.3529pt x 230.26833pt.
+ [90] [91 <./MECH221_DYN_notes_images/Slide64.png>]
+<./MECH221_DYN_notes_images/Slide65.png, id=495, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide65.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide65.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide65.png  used on input 
+line 1423.
+(pdftex.def)             Requested size: 303.53708pt x 185.46767pt.
+<./MECH221_DYN_notes_images/Slide66.png, id=497, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide66.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide66.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide66.png  used on input 
+line 1427.
+(pdftex.def)             Requested size: 202.3529pt x 177.7023pt.
+ [92 <./MECH221_DYN_notes_images/Slide65.png> <./MECH221_DYN_notes_images/Slide
+66.png>]
+File: ./MECH221_DYN_notes_images/Slide64.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide64.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide64.png  used on input 
+line 1450.
+(pdftex.def)             Requested size: 202.3529pt x 230.26833pt.
+ [93] [94] [95]
+<./MECH221_DYN_notes_images/Slide67.png, id=515, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide67.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide67.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide67.png  used on input 
+line 1503.
+(pdftex.def)             Requested size: 177.06458pt x 217.78905pt.
+ [96 <./MECH221_DYN_notes_images/Slide67.png>]
+<./MECH221_DYN_notes_images/Slide68.png, id=521, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide68.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide68.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide68.png  used on input 
+line 1518.
+(pdftex.def)             Requested size: 202.3529pt x 245.75804pt.
+ [97 <./MECH221_DYN_notes_images/Slide68.png>]
+<./MECH221_DYN_notes_images/Slide69.png, id=528, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide69.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide69.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide69.png  used on input 
+line 1531.
+(pdftex.def)             Requested size: 202.3529pt x 232.1469pt.
+ [98 <./MECH221_DYN_notes_images/Slide69.png>]
+<./MECH221_DYN_notes_images/Slide70.png, id=534, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide70.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide70.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide70.png  used on input 
+line 1562.
+(pdftex.def)             Requested size: 202.3529pt x 232.1469pt.
+ [99 <./MECH221_DYN_notes_images/Slide70.png>]
+<./MECH221_DYN_notes_images/Slide71.png, id=540, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide71.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide71.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide71.png  used on input 
+line 1586.
+(pdftex.def)             Requested size: 177.06458pt x 215.04514pt.
+ [100 <./MECH221_DYN_notes_images/Slide71.png>] [101] [102]
+File: ./MECH221_DYN_notes_images/Slide71.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide71.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide71.png  used on input 
+line 1658.
+(pdftex.def)             Requested size: 177.06458pt x 215.04514pt.
+ [103]
+<./MECH221_DYN_notes_images/Slide72.png, id=558, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide72.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide72.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide72.png  used on input 
+line 1667.
+(pdftex.def)             Requested size: 202.3529pt x 140.99551pt.
+ [104 <./MECH221_DYN_notes_images/Slide72.png>] [105] [106]
+Chapter 11.
+<./MECH221_DYN_notes_images/Slide74.png, id=570, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide74.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide74.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide74.png  used on input 
+line 1737.
+(pdftex.def)             Requested size: 303.53708pt x 148.05739pt.
+[107
+
+] [108 <./MECH221_DYN_notes_images/Slide74.png>]
+<./MECH221_DYN_notes_images/Slide75.png, id=579, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide75.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide75.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide75.png  used on input 
+line 1775.
+(pdftex.def)             Requested size: 303.53708pt x 170.78935pt.
+ [109 <./MECH221_DYN_notes_images/Slide75.png>]
+<./MECH221_DYN_notes_images/Slide76.png, id=586, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide76.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide76.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide76.png  used on input 
+line 1813.
+(pdftex.def)             Requested size: 303.53708pt x 183.50131pt.
+File: ./MECH221_DYN_notes_images/Slide75.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide75.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide75.png  used on input 
+line 1827.
+(pdftex.def)             Requested size: 404.71353pt x 227.71638pt.
+ [110 <./MECH221_DYN_notes_images/Slide76.png>]
+<./MECH221_DYN_notes_images/Slide77.png, id=593, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide77.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide77.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide77.png  used on input 
+line 1842.
+(pdftex.def)             Requested size: 252.94499pt x 210.78967pt.
+ [111]
+[112 <./MECH221_DYN_notes_images/Slide77.png>]
+<./MECH221_DYN_notes_images/Slide78.png, id=604, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide78.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide78.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide78.png  used on input 
+line 1849.
+(pdftex.def)             Requested size: 177.06458pt x 254.49449pt.
+ [113 <./MECH221_DYN_notes_images/Slide78.png>]
+<./MECH221_DYN_notes_images/Slide79.png, id=610, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide79.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide79.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide79.png  used on input 
+line 1880.
+(pdftex.def)             Requested size: 126.47249pt x 137.31798pt.
+ [114 <./MECH221_DYN_notes_images/Slide79.png>]
+File: ./MECH221_DYN_notes_images/Slide75.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide75.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide75.png  used on input 
+line 1905.
+(pdftex.def)             Requested size: 354.12144pt x 199.24873pt.
+File: ./MECH221_DYN_notes_images/Slide76.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide76.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide76.png  used on input 
+line 1914.
+(pdftex.def)             Requested size: 303.53708pt x 183.50131pt.
+ [115]
+<./MECH221_DYN_notes_images/Slide80.png, id=625, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide80.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide80.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide80.png  used on input 
+line 1921.
+(pdftex.def)             Requested size: 202.3529pt x 183.90894pt.
+ [116 <./MECH221_DYN_notes_images/Slide80.png>]
+Chapter 12.
+<./MECH221_DYN_notes_images/Slide117.png, id=631, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide117.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide117.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide117.png  used on input
+ line 1932.
+(pdftex.def)             Requested size: 177.06458pt x 243.32768pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1931--1954
+$[]$ $[]$ 
+ []
+
+[117
+
+ <./MECH221_DYN_notes_images/Slide117.png>]
+<./MECH221_DYN_notes_images/Slide118.png, id=637, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide118.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide118.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide118.png  used on input
+ line 1982.
+(pdftex.def)             Requested size: 177.06458pt x 284.33733pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1981--1993
+[]$[]$ $[]$ 
+ []
+
+[118 <./MECH221_DYN_notes_images/Slide118.png>]
+<./MECH221_DYN_notes_images/Slide119.png, id=643, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide119.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide119.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide119.png  used on input
+ line 2004.
+(pdftex.def)             Requested size: 252.94499pt x 156.51822pt.
+ [119 <./MECH221_DYN_notes_images/Slide119.png>]
+<./MECH221_DYN_notes_images/Slide120.png, id=649, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide120.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide120.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide120.png  used on input
+ line 2014.
+(pdftex.def)             Requested size: 328.82541pt x 140.54433pt.
+ [120 <./MECH221_DYN_notes_images/Slide120.png>]
+Chapter 13.
+<./MECH221_DYN_notes_images/Slide82.png, id=655, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide82.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide82.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide82.png  used on input 
+line 2030.
+(pdftex.def)             Requested size: 252.94499pt x 115.18106pt.
+[121
+
+ <./MECH221_DYN_notes_images/Slide82.png>] [122]
+<./MECH221_DYN_notes_images/Slide84.png, id=665, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide84.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide84.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide84.png  used on input 
+line 2086.
+(pdftex.def)             Requested size: 303.53708pt x 161.8267pt.
+<./MECH221_DYN_notes_images/Slide85.png, id=667, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide85.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide85.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide85.png  used on input 
+line 2090.
+(pdftex.def)             Requested size: 303.53708pt x 161.8267pt.
+<./MECH221_DYN_notes_images/Slide86.png, id=669, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide86.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide86.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide86.png  used on input 
+line 2094.
+(pdftex.def)             Requested size: 303.53708pt x 161.8267pt.
+ [123 <./MECH221_DYN_notes_images/Slide84.png> <./MECH221_DYN_notes_images/Slid
+e85.png> <./MECH221_DYN_notes_images/Slide86.png>]
+File: ./MECH221_DYN_notes_images/Slide87.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide87.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide87.png  used on input 
+line 2105.
+(pdftex.def)             Requested size: 252.94499pt x 269.7767pt.
+ [124 <./MECH221_DYN_notes_images/Slide87.png>]
+<./MECH221_DYN_notes_images/Slide88.png, id=686, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide88.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide88.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide88.png  used on input 
+line 2135.
+(pdftex.def)             Requested size: 455.2979pt x 256.17577pt.
+ [125 <./MECH221_DYN_notes_images/Slide88.png>]
+<./MECH221_DYN_notes_images/Slide89.png, id=692, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide89.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide89.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide89.png  used on input 
+line 2144.
+(pdftex.def)             Requested size: 202.3529pt x 157.83264pt.
+<./MECH221_DYN_notes_images/Slide90.png, id=694, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide90.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide90.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide90.png  used on input 
+line 2151.
+(pdftex.def)             Requested size: 252.94499pt x 112.45561pt.
+ [126 <./MECH221_DYN_notes_images/Slide89.png> <./MECH221_DYN_notes_images/Slid
+e90.png>]
+<./MECH221_DYN_notes_images/Slide91.png, id=701, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide91.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide91.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide91.png  used on input 
+line 2159.
+(pdftex.def)             Requested size: 252.94499pt x 142.97096pt.
+ [127 <./MECH221_DYN_notes_images/Slide91.png>]
+Chapter 14.
+<./MECH221_DYN_notes_images/Slide93.png, id=708, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide93.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide93.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide93.png  used on input 
+line 2176.
+(pdftex.def)             Requested size: 252.94499pt x 154.8115pt.
+File: ./MECH221_DYN_notes_images/Slide94.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide94.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide94.png  used on input 
+line 2187.
+(pdftex.def)             Requested size: 202.3529pt x 136.12216pt.
+[128
+
+ <./MECH221_DYN_notes_images/Slide93.png>]
+<./MECH221_DYN_notes_images/Slide95.png, id=718, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide95.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide95.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide95.png  used on input 
+line 2202.
+(pdftex.def)             Requested size: 202.3529pt x 113.39453pt.
+ [129 <./MECH221_DYN_notes_images/Slide94.png> <./MECH221_DYN_notes_images/Slid
+e95.png>] [130] [131]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 2271.
+
+[132] [133]
+<./MECH221_DYN_notes_images/Slide96.png, id=739, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide96.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide96.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide96.png  used on input 
+line 2337.
+(pdftex.def)             Requested size: 404.71353pt x 227.71638pt.
+ [134 <./MECH221_DYN_notes_images/Slide96.png>]
+File: ./MECH221_DYN_notes_images/Slide95.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide95.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide95.png  used on input 
+line 2389.
+(pdftex.def)             Requested size: 202.3529pt x 113.39453pt.
+ [135]
+<./MECH221_DYN_notes_images/Slide97.png, id=750, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide97.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide97.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide97.png  used on input 
+line 2406.
+(pdftex.def)             Requested size: 404.71353pt x 227.71638pt.
+ [136 <./MECH221_DYN_notes_images/Slide97.png>] [137]
+File: ./MECH221_DYN_notes_images/Slide95.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide95.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide95.png  used on input 
+line 2429.
+(pdftex.def)             Requested size: 202.3529pt x 113.39453pt.
+ [138]
+<./MECH221_DYN_notes_images/Slide98.png, id=764, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide98.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide98.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide98.png  used on input 
+line 2436.
+(pdftex.def)             Requested size: 177.06458pt x 136.24066pt.
+ [139 <./MECH221_DYN_notes_images/Slide98.png>] [140]
+Chapter 15.
+[141
+
+] [142]
+<./MECH221_DYN_notes_images/Slide100.png, id=781, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide100.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide100.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide100.png  used on input
+ line 2576.
+(pdftex.def)             Requested size: 252.94499pt x 201.85246pt.
+
+Overfull \hbox (50.59207pt too wide) in paragraph at lines 2566--2578
+[]$[]$$[]$ 
+ []
+
+[143 <./MECH221_DYN_notes_images/Slide100.png>] [144]
+Chapter 16.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 2602--2617
+[] [] 
+ []
+
+[145
+
+]
+<./MECH221_DYN_notes_images/Slide102.png, id=794, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide102.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide102.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide102.png  used on input
+ line 2631.
+(pdftex.def)             Requested size: 202.3529pt x 278.08287pt.
+ [146 <./MECH221_DYN_notes_images/Slide102.png>] [147] [148] [149]
+[150]
+<./MECH221_DYN_notes_images/Slide103.png, id=813, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide103.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide103.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide103.png  used on input
+ line 2661.
+(pdftex.def)             Requested size: 354.12144pt x 146.6543pt.
+ [151 <./MECH221_DYN_notes_images/Slide103.png>] [152]
+<./MECH221_DYN_notes_images/Slide104.png, id=823, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide104.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide104.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide104.png  used on input
+ line 2681.
+(pdftex.def)             Requested size: 227.64894pt x 312.84633pt.
+ [153 <./MECH221_DYN_notes_images/Slide104.png>]
+File: ./MECH221_DYN_notes_images/Slide104.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide104.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide104.png  used on input
+ line 2692.
+(pdftex.def)             Requested size: 227.64894pt x 312.84633pt.
+ [154]
+<./MECH221_DYN_notes_images/Slide105.png, id=834, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide105.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide105.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide105.png  used on input
+ line 2708.
+(pdftex.def)             Requested size: 151.76854pt x 243.71652pt.
+ [155 <./MECH221_DYN_notes_images/Slide105.png>]
+<./MECH221_DYN_notes_images/Slide106.png, id=840, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide106.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide106.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide106.png  used on input
+ line 2721.
+(pdftex.def)             Requested size: 227.64894pt x 169.60143pt.
+ [156 <./MECH221_DYN_notes_images/Slide106.png>]
+<./MECH221_DYN_notes_images/Slide107.png, id=846, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide107.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide107.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide107.png  used on input
+ line 2732.
+(pdftex.def)             Requested size: 210.71423pt x 112.30722pt.
+<./MECH221_DYN_notes_images/Slide108.png, id=848, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide108.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide108.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide108.png  used on input
+ line 2734.
+(pdftex.def)             Requested size: 210.71423pt x 112.30722pt.
+<./MECH221_DYN_notes_images/Slide109.png, id=850, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide109.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide109.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide109.png  used on input
+ line 2736.
+(pdftex.def)             Requested size: 210.71423pt x 112.30722pt.
+<./MECH221_DYN_notes_images/Slide110.png, id=852, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide110.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide110.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide110.png  used on input
+ line 2738.
+(pdftex.def)             Requested size: 210.71423pt x 112.30722pt.
+<./MECH221_DYN_notes_images/Slide111.png, id=854, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide111.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide111.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide111.png  used on input
+ line 2740.
+(pdftex.def)             Requested size: 210.71423pt x 112.30722pt.
+ [157 <./MECH221_DYN_notes_images/Slide107.png> <./MECH221_DYN_notes_images/Sli
+de108.png> <./MECH221_DYN_notes_images/Slide109.png> <./MECH221_DYN_notes_image
+s/Slide110.png> <./MECH221_DYN_notes_images/Slide111.png>]
+File: ./MECH221_DYN_notes_images/Slide106.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide106.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide106.png  used on input
+ line 2754.
+(pdftex.def)             Requested size: 192.23463pt x 143.21506pt.
+<./MECH221_DYN_notes_images/Slide112.png, id=866, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide112.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide112.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide112.png  used on input
+ line 2757.
+(pdftex.def)             Requested size: 288.35928pt x 190.13223pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 2753--2759
+[]$[]$ $[]$ 
+ []
+
+[158 <./MECH221_DYN_notes_images/Slide112.png>]
+<./MECH221_DYN_notes_images/Slide113.png, id=874, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide113.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide113.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide113.png  used on input
+ line 2786.
+(pdftex.def)             Requested size: 151.76854pt x 121.00414pt.
+ [159 <./MECH221_DYN_notes_images/Slide113.png>] [160] [161] [162] [163]
+<./MECH221_DYN_notes_images/Slide114.png, id=893, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide114.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide114.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide114.png  used on input
+ line 2866.
+(pdftex.def)             Requested size: 303.53708pt x 153.46552pt.
+ [164 <./MECH221_DYN_notes_images/Slide114.png>] [165]
+<./MECH221_DYN_notes_images/Slide115.png, id=902, 963.6pt x 542.1856pt>
+File: ./MECH221_DYN_notes_images/Slide115.png Graphic file (type png)
+<use ./MECH221_DYN_notes_images/Slide115.png>
+Package pdftex.def Info: ./MECH221_DYN_notes_images/Slide115.png  used on input
+ line 2882.
+(pdftex.def)             Requested size: 303.53708pt x 264.51503pt.
+ [166 <./MECH221_DYN_notes_images/Slide115.png>] [167] [168]
+(./MECH221_Dynamics_2020jul15.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8801 strings out of 492616
+ 139941 string characters out of 6129482
+ 227282 words of memory out of 5000000
+ 12441 multiletter control sequences out of 15000+600000
+ 19558 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,21n,77p,833b,607s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
+b></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy
+6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/c
+mbsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+bx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8
+.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti1
+0.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cm
+ex8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.p
+fb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.p
+fb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmi
+b6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/
+cmmib8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
+.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pf
+b></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on MECH221_Dynamics_2020jul15.pdf (168 pages, 10259725 bytes).
+PDF statistics:
+ 998 PDF objects out of 1000 (max. 8388607)
+ 566 compressed objects within 6 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1286 words of extra memory for PDF output out of 10000 (max. 10000000)
+
